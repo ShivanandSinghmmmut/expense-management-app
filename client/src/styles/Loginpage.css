@@ -40,3 +40,10 @@
 .login-form a:hover {
   color: black !important;
 }
+
+@media only screen and (max-width: 600px) {
+  .login-form{
+    margin-top: 20px;
+    
+  }
+}
